@@ -1,5 +1,6 @@
-# BanglaTranslator
-Translate bangla to english. This model is train based on encoder decoder with attention mechanism. This repository may be a starting point to approaching `bangla machine translation` problem. If this repository helps others people who are working on bangla machine translation then it would be very greatfull for me.
+# Bengali_to_English translator
+
+Translates bengali to english. This model is based on encoder decoder with attention mechanism. This repository may be a starting point to approaching `bangla machine translation` problem. 
 
 ## Dataset
 I use dataset provide in [http://www.manythings.org/anki/ben-eng.zip](http://www.manythings.org/anki/ben-eng.zip) . This dataset contain english bangla sentence pair in the following format,
